@@ -1,3 +1,14 @@
+### Codebase has been produced as a combination of the following code repositories, as well as one described below in this README file
+
+APIs:
+* https://github.com/josefwaller/PyCatan
+* https://github.com/rosshamish/catan-py/
+
+GUIs:
+* https://github.com/qtmiller/Coders-of-Catan
+* as well as the one below
+
+
 catan-spectator
 ---------------
 
